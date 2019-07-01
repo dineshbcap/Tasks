@@ -1,0 +1,3 @@
+login.username.txt.xpath : //input[@id='username']
+login.password.txt.xpath : //input[@id='password']
+login.submit.btn.xpath : //input[@id='loginSubmit']

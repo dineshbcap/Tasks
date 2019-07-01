@@ -1,0 +1,7 @@
+login.username : aspire_rajtilak
+login.password : optionshouse
+api.login.endpoint : https://api.optionshouse.com/m
+api.viewQuote.endpoint : https://api.optionshouse.com/j
+jira.url : http://192.168.25.40:8080
+jira.username : Rajtilak
+jira.password : jira@1234

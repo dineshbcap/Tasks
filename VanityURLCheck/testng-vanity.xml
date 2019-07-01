@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Vanity_URL_Check">
+	<test name="Vanity" junit="false" annotations="JDK" parallel="methods" thread-count="5">
+	    <classes>
+	      <class name="code.VanityURLCheck"/>
+	     </classes>
+  	</test>	
+</suite>
